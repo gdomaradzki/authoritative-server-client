@@ -108,7 +108,6 @@ const config = {
 class Game {
   constructor() {
     this.game = new Phaser.Game(config)
-    this.players = {}
   }
 }
 
